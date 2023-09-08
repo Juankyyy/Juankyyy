@@ -10,5 +10,4 @@
 ## 📊 My stats:
 ![Juanky's GitHub stats](https://github-readme-stats.vercel.app/api?username=juankyyy&theme=radical&show_icons=true&cunt_private=true&title_color=FF6359&icon_color=FF6359)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juankyyy&theme=gotham&layout=compact&langs_count=4)
-
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juankyyy&theme=gotham&layout=compact&langs_count=4)-->
