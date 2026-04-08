@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me: ###
 
-### I'm an amateur web developer and programmer with a deep passion for creating engaging web experiences, committed to improving my skills and learning more.
+### I'm a web developer and programmer with a deep passion for creating engaging web experiences, committed to improving my skills and learning more.
 #
 
 <details>
